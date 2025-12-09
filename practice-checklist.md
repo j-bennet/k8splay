@@ -2,7 +2,7 @@
 
 ## **Day 1 — Cluster Setup**
 
-* [ ] Create a kind cluster
+* [-] Create a kind cluster
 * [x] Create a kubeadm cluster
 * [x] Inspect `/etc/kubernetes/manifests`
 * [x] Reset and recreate cluster

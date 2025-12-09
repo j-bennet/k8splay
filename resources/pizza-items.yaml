@@ -1,0 +1,26 @@
+apiVersion: "stable.jbennet.codes/v1"
+kind: Pizza
+metadata:
+  name: pizza-simple
+spec:
+  toppings: "mozzarella,pepperoni,red sauce"
+  crust: "thin"
+  size: 12
+---
+apiVersion: "stable.jbennet.codes/v1"
+kind: Pizza
+metadata:
+  name: pizza-fancy
+spec:
+  toppings: "mozzarella,feta,mushrooms,white sauce,spinach,artichokes,sausage"
+  crust: "stuffed"
+  size: 12
+---
+apiVersion: "stable.jbennet.codes/v1"
+kind: Pizza
+metadata:
+  name: pizza-veggie
+spec:
+  toppings: "mozzarella,mushrooms,bell peppers,olives,onions,cauliflower,arugula,red sauce"
+  crust: "regular"
+  size: 12
