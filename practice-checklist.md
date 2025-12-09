@@ -11,11 +11,11 @@
 
 ## **Day 2 — CRDs + Custom Resources**
 
-* [ ] Install a CRD from YAML
-* [ ] Verify CRD: `kubectl get crd`
-* [ ] Explore schema: `kubectl explain <crd> --recursive`
-* [ ] Create CR instance
-* [ ] Inspect CR: `kubectl get -o yaml`, `kubectl describe`
+* [x] Install a CRD from YAML
+* [x] Verify CRD: `kubectl get crd`
+* [x] Explore schema: `kubectl explain <crd> --recursive`
+* [x] Create CR instance
+* [x] Inspect CR: `kubectl get -o yaml`, `kubectl describe`
 
 ---
 
