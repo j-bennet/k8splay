@@ -8,4 +8,4 @@ spec:
   rules:
   - backendRefs:
     - name: prod-web-svc
-      port: 8080
+      port: 80
