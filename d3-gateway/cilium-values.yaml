@@ -1,0 +1,9 @@
+USER-SUPPLIED VALUES:
+cluster:
+  name: minikube
+gatewayAPI:
+  enabled: true
+operator:
+  replicas: 1
+routingMode: tunnel
+tunnelProtocol: vxlan

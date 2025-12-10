@@ -21,11 +21,12 @@
 
 ## **Day 3 — Gateway API Basics**
 
-* [ ] Install Gateway API CRDs
-* [ ] Create GatewayClass
-* [ ] Create Gateway
-* [ ] Create simple HTTPRoute
-* [ ] Route traffic to a backend
+* [x] Install Gateway API CRDs
+* [x] Install a Gateway controller (Cilium)
+* [-] Create GatewayClass
+* [x] Create Gateway
+* [x] Create simple HTTPRoute
+* [x] Route traffic to a backend
 
 ---
 
