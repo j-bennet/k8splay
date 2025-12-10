@@ -327,5 +327,3 @@ Run selected labs again with a timer:
 * Target **5–7 minutes** for smaller tasks (CRD, Helm)
 * Target **10–15 minutes** for etcd restore
 
-````
-
